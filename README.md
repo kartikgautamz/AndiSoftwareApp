@@ -3,6 +3,7 @@
 ### Business Context
 ANDi Cloud Sector Solutions represents a transformative approach to industry-specific cloud computing, addressing the critical need for verticalized digital transformation. In today's fragmented cloud services market, enterprises struggle with generic solutions that fail to address sector-specific compliance requirements, operational workflows, and data governance standards. Our application bridges this gap by delivering:
 
+![IMG_2254](https://github.com/user-attachments/assets/bd4e751c-07ca-40da-b80c-e81320b624fc)
 ![IMG_2248](https://github.com/user-attachments/assets/1083defe-a5d5-4162-8648-5425613ea185)
 ![IMG_2249](https://github.com/user-attachments/assets/857d63d8-7bcb-4873-9947-737c9b9bf317)
 ![IMG_2250](https://github.com/user-attachments/assets/0b8f6e1d-9663-4128-bc93-5c31552cbb04)
